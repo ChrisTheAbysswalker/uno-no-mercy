@@ -1,0 +1,18 @@
+.card {
+  width: 60px;
+  height: 90px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  cursor: pointer;
+}
+.red { background-color: crimson; }
+.green { background-color: forestgreen; }
+.blue { background-color: dodgerblue; }
+.yellow { background-color: goldenrod; }
+.wild { background: radial-gradient(circle, black, gray); }
